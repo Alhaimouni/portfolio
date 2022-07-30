@@ -81,36 +81,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Dar-for Engineering Consultancy ",
+        "title": "Electrical Engineer",
+        "years": "10.2019 - 6.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Cad-2022"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Revit-2022",
+          "Dialux-EVO",
+          "PV-syst",
+          "Sketch-up",
+          "E-taps",
+          "MATH-LAB",
+          "JCCOD",
+          "PhotoShop",
+          "Tesco"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
+        "company": "Orange.jo",
+        "title": "Trainer",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Training"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
+          "O-zone",
+          "Nmvhtc",
+          "TMC",
+          "CCT",
           "DHTMLX Gantt"
         ]
       }
