@@ -1,6 +1,7 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url("https://image.shutterstock.com/image-photo/old-brick-black-color-wall-260nw-1605128917.jpg");
 
 html {
 	font-size: 62.5%;
@@ -231,7 +232,9 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	// background: #efe1bd;
+	background-image: url("https://img.freepik.com/free-vector/hand-painted-background-violet-orange-colours_23-2148427578.jpg?w=2000");
+	background-size: cover;
 }
 
 .experience-icon {
