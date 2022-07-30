@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Mohammad Al-Haimouni",
-      "titles": [ "Software Developer" ],
+      "titles": [ "ElecoCoding programmer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Alhaimouni",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/mohammad-alhaymoni-37ab4118b/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
